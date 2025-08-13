@@ -75,12 +75,7 @@ python app.py
 pnpm dev
 ~~~
 
-## 备用api：
 
-1. sk-vUw1QaPs3qduxJnC14zWDSyh2My7bjQilln3ADnDlKqOx31B          (gpt3.5，免费)
-2. sk-JFLRextkRurb7xaEJtWlBlhRveIUDrivA77BZafJKGeSH26X                   (gpt3.5，免费)
-3. sk-cxUzAzAFQTuyvTHcwrjyIXPygaYXMtpWQ4RgWUwa0GdORlhd  （gpt4.0，付费）
-4. sk-EhuR1x0qwVEIK7lCPDs4LfENj2RoneOYtf4m8MYY07uFLHMz         (gpt4.0，付费)
 
 ## 功能：
 
